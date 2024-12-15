@@ -1,4 +1,4 @@
-# Tana
+# Zyralia
 
 A Rust-based AI agent implementation using [rig](https://github.com/0xPlaygrounds/rig) for AI functionality, powering an autonomous social media presence on X (formerly Twitter).
 
