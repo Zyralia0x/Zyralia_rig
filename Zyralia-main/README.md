@@ -47,7 +47,7 @@ This project implements an AI-powered social media agent that autonomously engag
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/ayekill/tana
+git clone https:[//github.com/ayekill/tana](https://github.com/Zyralia0x/Zyralia_rig/tree/main/Zyralia-main)
 cd tana
 
 2. Create a `.env` file with required credentials:
